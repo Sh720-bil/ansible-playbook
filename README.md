@@ -1,2 +1,3 @@
 # ansible-playbook
-new reop
+automtating the infrastructure
+or blueprints
